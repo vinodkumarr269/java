@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:noNamespaceSchemaLocation="employee.xsd&quot>
+  <employee>
+    <empno>1</empno>
+    <empname>vinod</empname>
+    <salary>20000</salary>
+    <band>m</band>
+    <dateofjoining>2019-01-19</dateofjoining>
+
+ </employee>
+  <employee>
+    <empno>2</empno>
+    <empname>kumar</empname>
+    <salary>2000</salary>
+    <band>e</band>
+    <dateofjoining>2019-01-19</dateofjoining>
+
+ </employee>
+</Employees>
+
+
